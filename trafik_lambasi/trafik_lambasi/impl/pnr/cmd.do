@@ -1,0 +1,12 @@
+-d C:\Users\Enes\Documents\GomuluSistemlerProjects\trafik_lambasi\trafik_lambasi\impl\gwsynthesis\trafik_lambasi.vg
+-p GW1N-1-QFN48-6
+-pn GW1N-LV1QN48C6/I5
+-cst C:\Users\Enes\Documents\GomuluSistemlerProjects\trafik_lambasi\trafik_lambasi\src\trafik_lambasi.cst
+-cfg C:\Users\Enes\Documents\GomuluSistemlerProjects\trafik_lambasi\trafik_lambasi\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
