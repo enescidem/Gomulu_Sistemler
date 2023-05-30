@@ -1,0 +1,20 @@
+//Copyright (C)2014-2022 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.09 Education
+//Part Number: GW1NZ-LV1QN48C6/I5
+//Device: GW1NZ-1
+//Created Time: Fri 05 26 18:43:33 2023
+
+IO_LOC "led[2]" 11;
+
+IO_LOC "led[1]" 10;
+
+IO_LOC "led[0]" 9;
+
+IO_LOC "clk" 47;
+
+IO_LOC "btn1" 44;
+
+IO_LOC "btn2" 13;
+
